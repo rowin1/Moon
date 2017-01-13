@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VanillaFocus"
+title:  "Pokemon Showdown Enhanced Tooltips"
 date:   2017-01-09
 excerpt: "A Chrome Extension for Pokemon Showdown"
 project: true
