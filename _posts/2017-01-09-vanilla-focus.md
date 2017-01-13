@@ -22,13 +22,13 @@ VanillaFocus is a WoW AddOn written in LUA that provides basic focus functionali
 
 View on [Github](https://github.com/rowin1/VanillaFocus)
 
-### Usage
-####Help
+## Usage
+###Help
 - Get a list of commands ingame
  `/vanillafocus`
  `/vf`
 
-####Commands
+###Commands
 
 - Set the current target as focus
  `/focus`
@@ -45,6 +45,6 @@ View on [Github](https://github.com/rowin1/VanillaFocus)
 - Target focus
  `/targetfocus`
 
-### Installation
+## Installation
 - [Download](https://github.com/rowin1/VanillaFocus/archive/master.zip) the latest version of VanillaFocus.
 - Extract VanillaFocus-master and drag and drop the "VanillaFocus" folder into your Interface\AddOns directory
