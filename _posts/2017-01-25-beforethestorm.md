@@ -27,7 +27,7 @@ The game is a turn-based PvP skirmish that requires two teams, each with two cha
 Every turn, the active player draws a card from their ability deck and is allotted 3 action points they may choose how to spend.
 
 * Movement on the game board requires 1 action, and allows the player to move two tiles. 
-* Abilities have an action cost and a class resource cost (mana, energy, rage, focus). Abilities also have a type, such as melee or spell, that determines the conditions a player must meet in order to use the ability. Spell abilities require the character to have at most 6 tiles in between him and their target. Melee abilities require a chararcter to be at a tile adjacent to their enemy.
+* Abilities have an action cost and a class resource cost (mana, energy, rage, focus). Abilities also have a type, such as melee or spell, that determines the conditions a player must meet in order to use the ability. Spell abilities require the character to have at most 6 tiles in between them and their target. Melee abilities require a character to be at a tile adjacent to their enemy.
 
 ## Character Classes
 There are currently five implemented classes:
@@ -73,31 +73,31 @@ Each character has a corresponding deck of ability cards that are specific to th
 #### Hunter
 
 <figure>
-	<a href="#hunter"><img src="/images/bts-hunter-rapidfire.jpg"></a>
+	<a name="#hunter"><img src="/images/bts-hunter-rapidfire.jpg"></a>
 </figure>
 
 #### Mage
 
 <figure>
-	<a href="#mage"><img src="/images/bts-mage-frostbolt.jpg"></a>
+	<a name="#mage"><img src="/images/bts-mage-frostbolt.jpg"></a>
 </figure>
 
 #### Priest
 
 <figure>
-	<a href="#priest"><img src="/images/bts-priest-fade.jpg"></a>
+	<a name="#priest"><img src="/images/bts-priest-fade.jpg"></a>
 </figure>
 
 #### Rogue
 
 <figure>
-	<a href="#rogue"><img src="/images/bts-rogue-distract.jpg"></a>
+	<a name="#rogue"><img src="/images/bts-rogue-distract.jpg"></a>
 </figure>
 
 #### Warrior
 
 <figure>
-	<a href="#warrior"><img src="/images/bts-warrior-intervene.jpg"></a>
+	<a name="#warrior"><img src="/images/bts-warrior-intervene.jpg"></a>
 </figure>
 
 
