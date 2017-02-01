@@ -2,7 +2,7 @@
 layout: post
 title:  "QuestRunner"
 date:   2017-01-25
-excerpt: "A mobile game developed in Unity, inspired by Warcraft, inspiring runners."
+excerpt: "A mobile game developed in Unity; inspired by Warcraft, inspiring runners."
 tag:
 - questrunner
 - unity
@@ -20,9 +20,13 @@ comments: false
 QuestRunner is an Android application that combines the functionality of a walking and running GPS tracker with a role-playing video game. Users defeat monsters, acquire items, and progress through levels of increasing difficulty. If a user goes for a run, they are rewarded with items and XP the next time they play the game.
 
 [Inventory and Item System](#inventory)
+
 [Level System and Main Menu UI)(#levelselect)
+
 [Character System](#character)
+
 [Battle System](#battle)
+
 [Run Tracking](#run)
 
 ## Motivations
