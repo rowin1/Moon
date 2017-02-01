@@ -59,7 +59,7 @@ The board represents Blade's Edge Arena. The hexagonal grid represents locations
 These tokens are placed on top of character sheets to track current health and resource values.
 
 ### Dice
-The dice is used to determine the outcome of certain events that have a chance to occur, such as Frostbolt having a 1/6th chance of freezing a target in place for one turn.
+The dice is used to determine the outcome of certain events that have a chance to occur, such as Frostbolt having a 1/6 chance of freezing a target in place for one turn.
 
 ### Figures
 Each character is represented by a figure, which is placed on the game board to indicate its current position.
