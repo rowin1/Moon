@@ -44,7 +44,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 
 * User progresses through the game by finishing levels
 * As levels are unlocked, the difficulty of the monsters increases
-* stronger monsters reward stronger items
+* Stronger monsters reward stronger items
 * The user can drag the map around with touch
 * User has access to five selections on the bottom panel: Adventure, Inventory, Quests, Town, and Options (some are not yet implemented)
 
