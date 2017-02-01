@@ -19,25 +19,23 @@ comments: false
 
 QuestRunner is an Android application that combines the functionality of a walking and running GPS tracker with a role-playing video game. Users defeat monsters, acquire items, and progress through levels of increasing difficulty. If a user goes for a run, they are rewarded with items and XP the next time they play the game.
 
-[Inventory and Item System](#inventory)
+[Inventory and Item System](#Inventory-and-Item-System)
 
-[Level System and Main Menu UI](#levelselect)
+[Level System and Main Menu UI](#Level-Select-and-Main-Menu-UI)
 
-[Character System](#character)
+[Character System](#Character-System)
 
-[Battle System](#battle)
+[Battle System](#Battle-System)
 
-[Run Tracking](#run)
+[Run Tracking](#Run-tracking)
 
 ## Motivations
 
-*More than two-thirds of adults are considered to be overweight or obese [(1)](https://www.niddk.nih.gov/health-information/health-statistics/Pages/overweight-obesity-statistics.aspx).
+* More than two-thirds of adults are considered to be overweight or obese [(1)](https://www.niddk.nih.gov/health-information/health-statistics/Pages/overweight-obesity-statistics.aspx).
+* Rewarding users may provide incentive to increase physical fitness.
+* Users have a higher desire to complete an activity when reward for the activity is uncertain [(2)](http://library.fora.tv/2011/02/15/Robert_Sapolsky_Are_Humans_Just_Another_Primate#9YjA8sErOq6Ohub7.99).
 
-*Rewarding users may provide incentive to increase physical fitness.
-
-*Users have a higher desire to complete an activity when reward for the activity is uncertain [(2)](http://library.fora.tv/2011/02/15/Robert_Sapolsky_Are_Humans_Just_Another_Primate#9YjA8sErOq6Ohub7.99).
-
-## Inventory and Item System <a name="#inventory></a>
+## Inventory and Item System
 
 <figure>
 	<a href="images/qr-inventory.jpg"><img src="/images/qr-inventory.jpg"></a>
@@ -48,7 +46,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 * The user can click an item and then click on an open inventory spot to move or equip the item
 * A user can inspect the item by clicking it, displaying its tooltip revealing information about the item
 
-## <a href="#levelsystem>Level Select and Main Menu UI</a>
+## Level Select and Main Menu UI
 
 <figure>
 	<a href="images/qr-levelselect.jpg"><img src="/images/qr-levelselect.jpg"></a>
@@ -61,7 +59,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 * User has access to five selections on the bottom panel: Adventure, Inventory, Quests, Town, and Options (some are not yet implemented)
 
  
-## <a href="#character></a>Character System
+## Character System
 
 
 <figure>
@@ -73,7 +71,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 * A character's current stats are displayed and updated as different items are equipped
 
 
-## <a href="#battle></a>Battle System
+## Battle System
 
 * User controls two characters at once, each with a separate set of abilities
 * When a user clicks a character, the hotbar on the bottom of the screen changes to that of clicked character
@@ -107,7 +105,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 
 
 
-## <a href="#run></a>Run-tracking
+## Run-tracking
 
 Runner-Up, an open-source Android application, observes and records the users run, tracking distance, pace, and duration.  
 Completing a walk or run rewards the user with random items suited for their level and a scaled amount of experience points.
