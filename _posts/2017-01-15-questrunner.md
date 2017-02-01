@@ -57,7 +57,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 </figure>
 
 * Character has stats such as health, mana, stamina, strength, intellect, and agility
-* stats modify the amount of health the user has and the amount of damage the user deals and receives
+* Stats modify the amount of health the user has and the amount of damage the user deals and receives
 * A character's current stats are displayed and updated as different items are equipped
 
 
