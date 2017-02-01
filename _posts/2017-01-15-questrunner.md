@@ -32,7 +32,9 @@ QuestRunner is an Android application that combines the functionality of a walki
 ## Motivations
 
 *More than two-thirds of adults are considered to be overweight or obese [(1)](https://www.niddk.nih.gov/health-information/health-statistics/Pages/overweight-obesity-statistics.aspx).
+
 *Rewarding users may provide incentive to increase physical fitness.
+
 *Users have a higher desire to complete an activity when reward for the activity is uncertain [(2)](http://library.fora.tv/2011/02/15/Robert_Sapolsky_Are_Humans_Just_Another_Primate#9YjA8sErOq6Ohub7.99).
 
 ## Inventory and Item System <a name="#inventory></a>
@@ -67,7 +69,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 </figure>
 
 * Character has stats such as health, mana, stamina, strength, intellect, and agility
-* stats modify the amount of health the user has and the amount of damage the user deals
+* stats modify the amount of health the user has and the amount of damage the user deals and receives
 * A character's current stats are displayed and updated as different items are equipped
 
 
