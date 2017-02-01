@@ -30,11 +30,12 @@ QuestRunner is an Android application that combines the functionality of a walki
 [Run Tracking](#run)
 
 ## Motivations
-More than two-thirds of adults are considered to be overweight or obese [(1)](https://www.niddk.nih.gov/health-information/health-statistics/Pages/overweight-obesity-statistics.aspx).
-Rewarding users may provide incentive to increase physical fitness.
-Users have higher desire to complete an activity when reward for the activity is uncertain [(2)](http://library.fora.tv/2011/02/15/Robert_Sapolsky_Are_Humans_Just_Another_Primate#9YjA8sErOq6Ohub7.99).
 
-## <a name="#inventory></a>Inventory and Item System
+*More than two-thirds of adults are considered to be overweight or obese [(1)](https://www.niddk.nih.gov/health-information/health-statistics/Pages/overweight-obesity-statistics.aspx).
+*Rewarding users may provide incentive to increase physical fitness.
+*Users have a higher desire to complete an activity when reward for the activity is uncertain [(2)](http://library.fora.tv/2011/02/15/Robert_Sapolsky_Are_Humans_Just_Another_Primate#9YjA8sErOq6Ohub7.99).
+
+## Inventory and Item System <a name="#inventory></a>
 
 <figure>
 	<a href="images/qr-inventory.jpg"><img src="/images/qr-inventory.jpg"></a>
@@ -45,7 +46,7 @@ Users have higher desire to complete an activity when reward for the activity is
 * The user can click an item and then click on an open inventory spot to move or equip the item
 * A user can inspect the item by clicking it, displaying its tooltip revealing information about the item
 
-## <a name="#levelsystem></a>Level Select and Main Menu UI 
+## <a name="#levelsystem>Level Select and Main Menu UI</a>
 
 <figure>
 	<a href="images/qr-levelselect.jpg"><img src="/images/qr-levelselect.jpg"></a>
