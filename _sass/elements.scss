@@ -118,6 +118,18 @@
         color: $warrior;
       }
     }
+     &.btn-priest {
+      background-color: $white;
+      color: $black;
+      border-color: $white;
+      &:visited {
+        color: $white;
+      }
+      &:hover {
+        background-color: $black;
+        color: $white;
+      }
+    }
 }
 .title .btn {
     margin: 10px;
