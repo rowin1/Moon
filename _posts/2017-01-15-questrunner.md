@@ -19,16 +19,6 @@ comments: false
 
 QuestRunner is an Android application that combines the functionality of a walking and running GPS tracker with a role-playing video game. Users defeat monsters, acquire items, and progress through levels of increasing difficulty. If a user goes for a run, they are rewarded with items and XP the next time they play the game.
 
-[Inventory and Item System](#Inventory-and-Item-System)
-
-[Level System and Main Menu UI](#Level-Select-and-Main-Menu-UI)
-
-[Character System](#Character-System)
-
-[Battle System](#Battle-System)
-
-[Run Tracking](#Run-tracking)
-
 ## Motivations
 
 * More than two-thirds of adults are considered to be overweight or obese [(1)](https://www.niddk.nih.gov/health-information/health-statistics/Pages/overweight-obesity-statistics.aspx).
@@ -38,7 +28,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 ## Inventory and Item System
 
 <figure>
-	<a href="images/qr-inventory.jpg"><img src="/images/qr-inventory.jpg"></a>
+	<a href="/images/qr-inventory.jpg"><img src="/images/qr-inventory.jpg"></a>
 </figure>
 
 * Inventory holds all of the a user's acquired items
@@ -49,7 +39,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 ## Level Select and Main Menu UI
 
 <figure>
-	<a href="images/qr-levelselect.jpg"><img src="/images/qr-levelselect.jpg"></a>
+	<a href="/images/qr-levelselect.jpg"><img src="/images/qr-levelselect.jpg"></a>
 </figure>
 
 * User progresses through the game by finishing levels
@@ -63,7 +53,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 
 
 <figure>
-	<a href="images/qr-char.jpg"><img src="/images/qr-char.jpg"></a>
+	<a href="/images/qr-char.jpg"><img src="/images/qr-char.jpg"></a>
 </figure>
 
 * Character has stats such as health, mana, stamina, strength, intellect, and agility
@@ -79,7 +69,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 * User can change the target of their currently selected character by clicking on an enemy
 
 <figure>
-	<a href="images/qr-combatexample1.jpg"><img src="/images/qr-combatexample1.jpg"></a>
+	<a href="/images/qr-combatexample1.jpg"><img src="/images/qr-combatexample1.jpg"></a>
 </figure>
 
 ### Unit Frames
@@ -100,7 +90,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 * Critical hits are displayed in a larger font
 
 <figure>
-	<a href="images/qr-combatexample2.jpg"><img src="/images/qr-combatexample2.jpg"></a>
+	<a href="/images/qr-combatexample2.jpg"><img src="/images/qr-combatexample2.jpg"></a>
 </figure>
 
 
