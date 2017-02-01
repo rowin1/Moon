@@ -119,7 +119,7 @@
       }
     }
      &.btn-priest {
-      background-color: $black;
+      background-color: $priest;
       color: $white;
       border-color: $white;
       &:visited {
@@ -127,7 +127,7 @@
       }
       &:hover {
         background-color: $black;
-        color: $white;
+        color: $priest;
       }
     }
 }
