@@ -34,7 +34,7 @@ There are currently five implemented classes:
 
 <div markdown="0"><a href="#hunter" class="btn btn-hunter">Hunter</a></div>
 <div markdown="0"><a href="#mage" class="btn btn-mage">Mage</a></div>
-<div markdown="0"><a href="#priest" class="btn">Priest</a></div>
+<div markdown="0"><a href="#priest" class="btn btn-priest">Priest</a></div>
 <div markdown="0"><a href="#rogue" class="btn btn-rogue">Rogue</a></div>
 <div markdown="0"><a href="#warrior" class="btn btn-warrior">Warrior</a></div>
 
