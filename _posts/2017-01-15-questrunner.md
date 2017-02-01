@@ -126,6 +126,8 @@ Sound Effect Lab (http://soundeffect-lab.info/)
 
 GoldenYak (http://goldenyak-wowfan.tumblr.com/)
 
+World of warcraft (https://us.battle.net/support/en/article/download-the-world-of-warcraft-interface-addon-kit)
+
 World of Warcraft (https://worldofwarcraft.com/en-us/)
 
 
