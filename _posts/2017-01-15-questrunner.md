@@ -21,7 +21,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 
 [Inventory and Item System](#inventory)
 
-[Level System and Main Menu UI)(#levelselect)
+[Level System and Main Menu UI](#levelselect)
 
 [Character System](#character)
 
@@ -46,7 +46,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 * The user can click an item and then click on an open inventory spot to move or equip the item
 * A user can inspect the item by clicking it, displaying its tooltip revealing information about the item
 
-## <a name="#levelsystem>Level Select and Main Menu UI</a>
+## <a href="#levelsystem>Level Select and Main Menu UI</a>
 
 <figure>
 	<a href="images/qr-levelselect.jpg"><img src="/images/qr-levelselect.jpg"></a>
@@ -59,7 +59,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 * User has access to five selections on the bottom panel: Adventure, Inventory, Quests, Town, and Options (some are not yet implemented)
 
  
-## <a name="#character></a>Character System
+## <a href="#character></a>Character System
 
 
 <figure>
@@ -71,7 +71,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 * A character's current stats are displayed and updated as different items are equipped
 
 
-## <a name="#battle></a>Battle System
+## <a href="#battle></a>Battle System
 
 * User controls two characters at once, each with a separate set of abilities
 * When a user clicks a character, the hotbar on the bottom of the screen changes to that of clicked character
@@ -105,7 +105,7 @@ QuestRunner is an Android application that combines the functionality of a walki
 
 
 
-## <a name="#run></a>Run-tracking
+## <a href="#run></a>Run-tracking
 
 Runner-Up, an open-source Android application, observes and records the users run, tracking distance, pace, and duration.  
 Completing a walk or run rewards the user with random items suited for their level and a scaled amount of experience points.
