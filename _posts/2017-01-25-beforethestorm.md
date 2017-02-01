@@ -44,13 +44,13 @@ There are currently five implemented classes:
 * 1 Dice
 * 5 Figures
 * 5 Character Sheets
-* 158 Class Ability Cards, including, 27 Hunter Cards, 30 Mage Cards, 27 Priest Cards, 47 Rogue Cards, 27 Warrior Cards
+* 158 Class Ability Cards, including: 27 Hunter Cards, 30 Mage Cards, 27 Priest Cards, 47 Rogue Cards, 27 Warrior Cards
 	
 ## Component Overview
 
 ### Game Board
 <figure>
-	<a href="/images/bts-gameboard.jpg"><img src="/images/bts-gameboard.jpg"></a>
+	<a href="https://rowin1.github.io/images/bts-game-overview.jpg"><img src="/images/bts-gameboard.jpg"></a>
 </figure>
 
 The board represents Blade's Edge Arena. The hexagonal grid represents locations that characters may move. 
@@ -70,31 +70,31 @@ Each character class has a corresponding sheet that shows class specific informa
 ### Class Ability Cards
 Each character has a corresponding deck of ability cards that are specific to their class. Here are some examples:
 
-## Hunter
+#### Hunter
 
 <figure>
 	<a href="#hunter"><img src="/images/bts-hunter-rapidfire.jpg"></a>
 </figure>
 
-## Mage
+#### Mage
 
 <figure>
 	<a href="#mage"><img src="/images/bts-mage-frostbolt.jpg"></a>
 </figure>
 
-## Priest
+#### Priest
 
 <figure>
 	<a href="#priest"><img src="/images/bts-priest-fade.jpg"></a>
 </figure>
 
-## Rogue
+#### Rogue
 
 <figure>
 	<a href="#rogue"><img src="/images/bts-rogue-distract.jpg"></a>
 </figure>
 
-## Warrior
+#### Warrior
 
 <figure>
 	<a href="#warrior"><img src="/images/bts-warrior-intervene.jpg"></a>
