@@ -12,6 +12,10 @@ comments: false
 
 *Before the Storm* is a boardgame based on World of Warcraft that I developed to play with my friends. It gets its namesake from World of Warcraft Patch 2.0.1 that added Arenas to the game. Here is a quick overview of the game and how it works.  
 
+<figure>
+	<a href="/images/bts-game-overview.jpg"><img src="/images/bts-game-overview.jpg"></a>
+</figure>
+
 ## Introduction
 
 *Journey to Blade's Edge Arena and battle against gladiators in a 2v2 fight to the death.*
@@ -28,21 +32,11 @@ Every turn, the active player draws a card from their ability deck and is allott
 ## Character Classes
 There are currently five implemented classes:
 
-<div markdown="0"><a href="#" class="btn btn-hunter">Hunter</a></div>
-<div markdown="0"><a href="#" class="btn btn-mage">Mage</a></div>
-<div markdown="0"><a href="#" class="btn">Priest</a></div>
-<div markdown="0"><a href="#" class="btn btn-rogue">Rogue</a></div>
-<div markdown="0"><a href="#" class="btn btn-warrior">Warrior</a></div>
-
-### Hunter
-
-### Mage
-
-### Priest
-
-### Rogue
-
-### Warrior
+<div markdown="0"><a href="#hunter" class="btn btn-hunter">Hunter</a></div>
+<div markdown="0"><a href="#mage" class="btn btn-mage">Mage</a></div>
+<div markdown="0"><a href="#priest" class="btn">Priest</a></div>
+<div markdown="0"><a href="#rogue" class="btn btn-rogue">Rogue</a></div>
+<div markdown="0"><a href="#warrior" class="btn btn-warrior">Warrior</a></div>
 
 ## Component List
 * 1 Game Board
@@ -50,16 +44,15 @@ There are currently five implemented classes:
 * 1 Dice
 * 5 Figures
 * 5 Character Sheets
-* 158 Class Ability Cards, including:
-	*27 Hunter Cards
-	*30 Mage Cards
-	*27 Priest Cards
-	*47 Rogue Cards
-	*27 Warrior Cards
+* 158 Class Ability Cards, including, 27 Hunter Cards, 30 Mage Cards, 27 Priest Cards, 47 Rogue Cards, 27 Warrior Cards
 	
 ## Component Overview
 
 ### Game Board
+<figure>
+	<a href="/images/bts-gameboard.jpg"><img src="/images/bts-gameboard.jpg"></a>
+</figure>
+
 The board represents Blade's Edge Arena. The hexagonal grid represents locations that characters may move. 
 
 ### Tokens
@@ -75,9 +68,37 @@ Each character is represented by a figure, which is placed on the game board to 
 Each character class has a corresponding sheet that shows class specific information, such as statistics, base abilities, and how much mana they regen per turn.
 
 ### Class Ability Cards
-Each character has a corresponding deck of ability cards that are specific to their class.
+Each character has a corresponding deck of ability cards that are specific to their class. Here are some examples:
 
+## Hunter
 
+<figure>
+	<a href="#hunter"><img src="/images/bts-hunter-rapidfire.jpg"></a>
+</figure>
+
+## Mage
+
+<figure>
+	<a href="#mage"><img src="/images/bts-mage-frostbolt.jpg"></a>
+</figure>
+
+## Priest
+
+<figure>
+	<a href="#priest"><img src="/images/bts-priest-fade.jpg"></a>
+</figure>
+
+## Rogue
+
+<figure>
+	<a href="#rogue"><img src="/images/bts-rogue-distract.jpg"></a>
+</figure>
+
+## Warrior
+
+<figure>
+	<a href="#warrior"><img src="/images/bts-warrior-intervene.jpg"></a>
+</figure>
 
 
 
