@@ -15,7 +15,7 @@ comments: false
 
 A Chrome Extension written in JavaScript that enhances the tooltips on [Pokemon Showdown](http://play.pokemonshowdown.com/).
 
-<iframe src="https://ghbtns.com/github-btn.html?user=rowin1&repo=Pokemon-Showdown-Enhanced-Tooltipss&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=rowin1&repo=Pokemon-Showdown-Enhanced-Tooltips&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 View on [Github](https://github.com/rowin1/Pokemon-Showdown-Enhanced-Tooltips)
 
