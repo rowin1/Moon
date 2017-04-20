@@ -21,7 +21,7 @@ View on [Github](https://github.com/rowin1/HLTV-thing)
 
 ### Match-up statistics
 Displays selected team's win-loss ratio.
-Provides match-up statistics between teams, including win-loss ratio and and win-loss ratio on specified map.
+Provides match-up statistics between selected team and selected opponent, including win-loss ratio and and win-loss ratio on specified map.
 
 ### Screenshot
 ![]()
