@@ -15,7 +15,7 @@ comments: false
 
 A command-line application written in Python that parses match-up stats between top ranking CSGO teams from [HLTV.ORG](http://www.hltv.org/).
 
-<iframe src="https://ghbtns.com/github-btn.html?user=rowin1&repo=HLTV-things&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=rowin1&repo=HLTV-thing&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 View on [Github](https://github.com/rowin1/HLTV-thing)
 
