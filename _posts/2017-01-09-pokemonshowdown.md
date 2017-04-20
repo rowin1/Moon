@@ -20,7 +20,7 @@ A Chrome Extension written in JavaScript that enhances the tooltips on [Pokemon 
 View on [Github](https://github.com/rowin1/Pokemon-Showdown-Enhanced-Tooltips)
 
 ### Enhanced Tooltips
-Provides additonal information:
+Provides additional information:
 
 - Type weaknesses and respective multipliers
 - Height, weight, tier
