@@ -26,7 +26,10 @@ Provides additional information:
 - Height, weight, tier
 
 ### Screenshot
-![]()
+![Screenshot](/images/PSET-screenshot1.png)
+<figure>
+	<a href="/images/PSET-screenshot2.png"><img src="/images/PSET-screenshot2.png"></a>
+</figure>
 
 ### Installation
 - [Download](https://github.com/rowin1/Pokemon-Showdown-Enhanced-Tooltips/archive/master.zip) the latest version of Pokemon Showdown Enhanced Tooltips
