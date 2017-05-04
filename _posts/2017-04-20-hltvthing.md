@@ -24,7 +24,9 @@ Displays selected team's win-loss ratio.
 Provides match-up statistics between selected team and selected opponent, including win-loss ratio and and win-loss ratio on specified map.
 
 ### Screenshot
-![]()
+<figure>
+	<a href="/images/hltv-screenshot.png"><img src="/images/hltv-screenshot.png"></a>
+</figure>
 
 ### Installation
 - [Download](https://github.com/rowin1/HLTV-thing/archive/master.zip) the latest version of HLTV-thing
